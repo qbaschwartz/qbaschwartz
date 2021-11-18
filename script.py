@@ -1,19 +1,16 @@
-import codecademylib3_seaborn
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
 
-# load and investigate the data here:
+# load rankings data here:
 
 
 
 
 
+# write function to plot rankings over time for 1 roller coaster here:
 
 
 
-# perform exploratory analysis here:
 
 
 
@@ -21,7 +18,9 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
+# write function to plot rankings over time for 2 roller coasters here:
 
 
 
@@ -32,11 +31,12 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
+# write function to plot top n rankings over time here:
 
 
 
-## perform single feature linear regressions here:
 
 
 
@@ -44,10 +44,13 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
+# load roller coaster data here:
 
 
 
+# write function to plot histogram of column values here:
 
 
 
@@ -58,8 +61,9 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
-## perform two feature linear regressions here:
+# write function to plot inversions by coaster at a park here:
 
 
 
@@ -70,7 +74,9 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
+# write function to plot pie chart of operating status here:
 
 
 
@@ -81,5 +87,17 @@ from sklearn.linear_model import LinearRegression
 
 
 
+plt.clf()
 
-## perform multiple feature linear regressions here:
+# write function to create scatter plot of any two numeric columns here:
+
+
+
+
+
+
+
+
+
+
+plt.clf()
